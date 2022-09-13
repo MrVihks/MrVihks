@@ -1,21 +1,21 @@
-##Vinicius Henrique 😉
-#Programo desde 2019
+## Vinicius Henrique 😉
+# Programo desde 2019
 
-##Linguagens que utilizo:
+## Linguagens que utilizo:
 -Python
 -JavaScript
 -C#
 -Lua
 -C++
 
-##FrameWorks:
+## FrameWorks:
 -React
 -React-Native
 -FastAPI
 
-##Softwares:
+## Softwares:
 -PostgreSQL
 
-##Game engines:
+## Game engines:
 -Game Maker
 -Unity 3D
