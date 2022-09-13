@@ -2,20 +2,20 @@
 # Programo desde 2019
 
 ## Linguagens que utilizo:
--Python
--JavaScript
--C#
--Lua
--C++
+- Python
+- JavaScript
+- C#
+- Lua
+- C++
 
 ## FrameWorks:
--React
--React-Native
--FastAPI
+- React
+- React-Native
+- FastAPI
 
 ## Softwares:
--PostgreSQL
+- PostgreSQL
 
 ## Game engines:
--Game Maker
--Unity 3D
+- Game Maker
+- Unity 3D
