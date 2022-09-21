@@ -1,5 +1,5 @@
-## Vinicius Henrique 😉
-# Programo desde 2019
+# Vinicius Henrique 😉
+> Programo desde 2019
 
 ## Linguagens que utilizo:
 - Python
@@ -9,6 +9,7 @@
 - C++
 
 ## FrameWorks:
+- Next
 - React
 - React-Native
 - FastAPI
