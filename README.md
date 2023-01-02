@@ -6,13 +6,15 @@
 - JavaScript
 - C#
 - Lua
-- C++
 
 ## FrameWorks:
 - Next
 - React
 - React-Native
 - FastAPI
+- Styled Componets
+- TailwindCSS
+- Bootstap 5
 
 ## Softwares:
 - PostgreSQL
