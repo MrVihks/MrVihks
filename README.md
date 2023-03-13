@@ -10,6 +10,8 @@
 ## FrameWorks:
 - Next
 - React
+- Fastify
+- Express
 - React-Native
 - FastAPI
 - Styled Componets
@@ -17,8 +19,11 @@
 - Bootstap 5
 
 ## Softwares:
+- MongoDB
 - PostgreSQL
+- MySQL
 
 ## Game engines:
-- Game Maker
+- Game Maker 2
 - Unity 3D
+- Godot GameEngine
