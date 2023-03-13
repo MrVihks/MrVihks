@@ -26,4 +26,4 @@
 ## Game engines:
 - Game Maker 2
 - Unity 3D
-- Godot GameEngine
+- Godot Game Engine
