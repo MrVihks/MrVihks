@@ -1,13 +1,19 @@
 # Vinicius Henrique 😉
-> Programo desde 2019
+### Procurando sempre dar o meu melhor
 
 ## Linguagens que utilizo:
 - Python
 - JavaScript
-- C#
+- C++
 - Lua
-
-## FrameWorks:
+  
+## Soft skills
+- Facilidade na comunicação
+- Colaboração
+- Flexibilidade
+- Resiliência
+- 
+## Frameworks:
 - Next
 - React
 - Fastify
