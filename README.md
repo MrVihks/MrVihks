@@ -12,7 +12,7 @@
 - Colaboração
 - Flexibilidade
 - Resiliência
-- 
+
 ## Frameworks:
 - Next
 - React
