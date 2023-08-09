@@ -6,14 +6,14 @@
 - JavaScript
 - PHP
   
-# Soft Skills
+# Soft Skills:
 - Facilidade na comunicação
 - Colaboração
 - Flexibilidade
 - Resiliência
 
-# Hard Skills
-## Frameworks JS:
+# Hard Skills:
+> Frameworks JS:
 - NextJS
 - React
 - Fastify
@@ -21,7 +21,7 @@
 - React-Native
 - Styled Componets
 - TailwindCSS
-## Frameworks PHP:
+> Frameworks PHP:
 - Laravel
-## Frameworks Python: 
+> Frameworks Python: 
 - FastAPI
