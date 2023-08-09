@@ -1,35 +1,27 @@
 # Vinicius Henrique 😉
-> Procurando sempre dar o meu melhor
+> Procurando sempre aprender coisas novas
 
-## Linguagens que utilizo:
+## Linguagens de Progamação:
 - Python
 - JavaScript
-- C++
-- Lua
+- PHP
   
-## Soft skills
+# Soft Skills
 - Facilidade na comunicação
 - Colaboração
 - Flexibilidade
 - Resiliência
 
-## Frameworks:
-- Next
+# Hard Skills
+## Frameworks JS:
+- NextJS
 - React
 - Fastify
 - Express
 - React-Native
-- FastAPI
 - Styled Componets
 - TailwindCSS
-- Bootstap 5
-
-## Softwares:
-- MongoDB
-- PostgreSQL
-- MySQL
-
-## Game engines:
-- Game Maker 2
-- Unity 3D
-- Godot Game Engine
+## Frameworks PHP:
+- Laravel
+## Frameworks Python: 
+- FastAPI
