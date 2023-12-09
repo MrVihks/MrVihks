@@ -5,6 +5,7 @@
 - Python
 - JavaScript
 - PHP
+- Dart
   
 # Soft Skills:
 - Facilidade na comunicação
@@ -13,9 +14,13 @@
 - Resiliência
 
 # Hard Skills:
+> Frameworks Dart:
+- Flutter
 > Frameworks JS:
+- Sass
+- ViteJS
 - NextJS
-- React
+- ReactJS
 - Fastify
 - Express
 - React-Native
@@ -23,5 +28,8 @@
 - TailwindCSS
 > Frameworks PHP:
 - Laravel
-> Frameworks Python: 
+> Frameworks Python:
 - FastAPI
+- Selenium
+- BeautifulSoap
+- PyAutoGUI
