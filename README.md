@@ -14,11 +14,6 @@ Software Engineer passionate about learning and crafting creative web solutions.
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
-
-## 🚀 About My Code
-
-Driven by curiosity and daily challenges. “In the depth of winter, I finally learned that within me there lay an invincible summer.” — Albert Camus
-
 ---
 
 
