@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vinicius Henrique
 
-Software Engineer passionate about learning and crafting creative web solutions. “Life unexamined is not worth living.” — Socrates 🧠
+Software Developer passionate about learning and crafting creative web solutions. “Life unexamined is not worth living.” — Socrates 🧠
 
 ## 🔧 Technologies
 
