@@ -1,10 +1,8 @@
-# 👋 Olá, eu sou o Vinicius Henrique
+# 👋 Hi, I’m Vinicius Henrique
 
-Software Engineer apaixonado por aprender e criar soluções web criativas. “A vida sem reflexão não vale a pena ser vivida.” — Sócrates 🧠
+Software Engineer passionate about learning and crafting creative web solutions. “Life unexamined is not worth living.” — Socrates 🧠
 
----
-
-## 🔧 Tecnologias
+## 🔧 Technologies
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -16,18 +14,25 @@ Software Engineer apaixonado por aprender e criar soluções web criativas. “A
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
+
+## 🚀 About My Code
+
+Driven by curiosity and daily challenges. “In the depth of winter, I finally learned that within me there lay an invincible summer.” — Albert Camus
+
 ---
 
-## 🚀 Sobre meu código
 
-Motivado pela curiosidade e desafios diários. “No fundo do inverno, finalmente aprendi que havia em mim um verão invencível.” — Albert Camus
+## 🌐 Most Used Languages
 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrVihks&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
 
-## 📫 Contato
 
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 📸 [Instagram](https://instagram.com/seu_usuario)
 
-> “O homem é aquilo que ele faz com o que fizeram dele.” — Jean-Paul Sartre
+## 📫 Contact
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vinicius-henrique-415b52348/)
+
+> “Man is what he makes of what has been made of him.” — Jean-Paul Sartre
 
